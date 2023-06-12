@@ -1,5 +1,5 @@
 const CustomFilter = () => {
-  return <div>ads</div>;
+  return <div>Custom Filter</div>;
 };
 
 export default CustomFilter;
