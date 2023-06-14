@@ -14,7 +14,7 @@ This is a Carhub website. You can search for models and get more detailed inform
 * Responsive Design
 
 
-####  You can view the site here <a href="https://teal-gnome-35bac7.netlify.app/index.html" target="_blank" alt="demo link">Demo </a>
+####  You can view the site here <a href="https://car-hub-website.vercel.app/" target="_blank" alt="demo link">Demo </a>
 
 
 ## Screenshots:
